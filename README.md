@@ -2,14 +2,7 @@
 ### I'm member of Team Destruction inc where we working in our project ,,Asteria".
 ### I am a Windows connoisseur
 ### Spicy on thin for the doctor?
-- 🔭 I’m currently working on Asteria
-- 🌱 I’m currently learning create games
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with nothing yet
-- 💬 Ask me aboutThe importance of Histone methylation or DNA methylation within introns
-- 📫 How to reach me: idk lol
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Did you know that DNA methylation within introns may have an impact on the efficiency of gene transcription?
+### I have an funfact for you: Did you know that DNA methylation within introns may also have an impact on the efficiency of gene transcription?
 
 
 <!--
