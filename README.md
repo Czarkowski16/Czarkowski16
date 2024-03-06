@@ -1,5 +1,5 @@
 ### Hello, and welcome to the Gaming and spicy kebab on a thin fan page family I'm Czarkowski, but you can call me Czarek.
-### I'm member of Team Destruction inc when we working in our project ,,Asteria".
+### I'm member of Team Destruction inc where we working in our project ,,Asteria".
 ### I am a Windows connoisseur
 ### Spicy on thin for the doctor?
 - 🔭 I’m currently working on Asteria
