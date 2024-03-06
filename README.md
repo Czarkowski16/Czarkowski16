@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, and welcome to the Gaming and spicy kebab on a thin fan page I'm Czarkowski, but you can call me Czarek.****
 
 <!--
 **Czarkowski16/Czarkowski16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
