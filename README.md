@@ -11,7 +11,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Czarkowski16e=yourusername&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Czarkowski16&layout=compact&langs_count=8&theme=radical)
 
 
 
