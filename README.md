@@ -6,6 +6,16 @@
 ### I have an funfact for you: Did you know that DNA methylation within introns may also have an impact on the efficiency of gene transcription?
 ### 🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  
 
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Czarkowski16e=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical)
+
+
+
+
 <!--
 **Czarkowski16/Czarkowski16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
