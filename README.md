@@ -9,13 +9,7 @@
 
 
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Czarkowski16&layout=compact&langs_count=8&theme=radical)
-
-![Czarkowski16's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czarkowski16&show_icons=true&theme=radical)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
