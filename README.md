@@ -1,32 +1,32 @@
-### 🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽 
+### 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 
 ### Hello, and welcome to the Gaming and spicy kebab on a thin fan page family I'm Czarkowski, but you can call me Czarek.
-### I use Arch btw
-### Spicy on thin for the doctor? 🌯  🌯  🌯  🌶  🌶  🌶  🌶 
-###  👨‍🦰 🧯💨 🕎
+### I use Arch btw 
+### Spicy on thin for the doctor? 🌯 🌯 🌯 🌶 🌶 🌶 🌶 
+### 👨‍🦰 🧯💨 🕎
 ### I have an funfact for you: Did you know that DNA methylation within introns may also have an impact on the efficiency of gene transcription?
-### 🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  🚽  
+### 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 
 
+---
 
+## 📊 My GitHub Stats (The Optimized Version)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czarkowski16&layout=compact&hide=html,css,scss,jupyter%20notebook&theme=tokyonight&border_radius=10" alt="Top Langs" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Czarkowski16&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" />
+</p>
 
+---
 
-
-
-
-<!--
-**Czarkowski16/Czarkowski16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Asteria
-- 🌱 I’m currently learning create games
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+## 🚀 About Me & Projects
+- 🔭 I’m currently working on **Bober Jumper**
+- 🌱 I’m currently learning how to create games
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Did you know that DNA methylation within introns may have an impact on the efficiency of gene transcription?
+- ⚡ Fun fact: DNA methylation within introns may impact gene transcription efficiency!
 
--->
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="Anurag's Stats Reference" />
+</p>
