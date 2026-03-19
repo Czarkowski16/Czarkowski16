@@ -1,5 +1,5 @@
 ### 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 🚽 
-### Hello, and welcome to the Gaming and spicy kebab on a thin fan page family I'm Czarkowski, but you can call me Czarek.
+### Hello, and welcome to the Gaming and spicy kebab on a thin fan page family I'm Czajaja, but you can call me Czarek.
 ### I use Arch btw 
 ### Spicy on thin for the doctor? 🌯 🌯 🌯 🌶 🌶 🌶 🌶 
 ### 👨‍🦰 🧯💨 🕎
